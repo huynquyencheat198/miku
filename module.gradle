@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "zyCheats"
+    magiskModuleId = "zyCheats"
+    moduleName = "zyCheats"
+    moduleAuthor = "fedes1to"
+    moduleDescription = "Zygisk ImGui Mod Menu"
+    moduleVersion = "v1.0"
+    moduleVersionCode = 1
+}
